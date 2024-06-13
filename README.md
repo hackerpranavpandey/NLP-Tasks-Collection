@@ -5,9 +5,9 @@ Implemented text summarizer, sentiment analysis, translation, zero-shot classifi
 
 All these datasets and model pipeline has been impelmented using Hugging Face API calls load_dataset and transformers
 # Datasets used:-
-1)-xsum, version=1.2.0 #
+xsum, version=1.2.0 
 
-2)-poem-sentiment, version=1.0.0
+poem-sentiment, version=1.0.0
 
 
 # Models used:-
