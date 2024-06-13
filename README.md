@@ -10,20 +10,20 @@ All these datasets and model pipeline has been impelmented using Hugging Face AP
 2)-poem-sentiment, version=1.0.0
 
 
-## Models used:-
+# Models used:-
 
-# Text Summarizer - t5-small
+Text Summarizer - t5-small
 
-# Sentiment Analysis -  nickwong64/bert-base-uncased-poems-sentiment
+Sentiment Analysis -  nickwong64/bert-base-uncased-poems-sentiment
 
-# Translation- Helsinki-NLP/opus-mt-en-es 
+Translation- Helsinki-NLP/opus-mt-en-es 
 
-# Zero Shot Classification- zero-shot-classification
+Zero Shot Classification- zero-shot-classification
 
-# Few Shot Learning- EleutherAI/gpt-neo-1.3B
+Few Shot Learning- EleutherAI/gpt-neo-1.3B
 
 Also implemented searching and sampling optimization using num_beams, do_samples,top_k,top_p features available in the pipeline
 
-Also implemented the concept of tokenization,encoder,decoder.
+## Also implemented the concept of tokenization,encoder,decoder.
 
 Used AutoTokenizer as well ad t5-small
