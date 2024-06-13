@@ -1,7 +1,7 @@
 # DataBricks-LLM-Course---NLP-Tasks
 In this repos I have build some nice NLP projects while exploring a course on LLM Applications
 
-#Implemented text summarizer, sentiment analysis, translation, zero-shot classification, few-shot learning
+Implemented text summarizer, sentiment analysis, translation, zero-shot classification, few-shot learning
 
 All these datasets and model pipeline has been impelmented using Hugging Face API calls load_dataset and transformers
 # Datasets used:-
